@@ -1,4 +1,4 @@
-This contains the set of instructions required to build and run the Spring Web Security application.
+This contains the set of instructions required to build and run the address book application.
 
 This application demonstrate the simple usage of Java Spring security Basic Authentication. Application has developed using Spring MVC pattern.
 
